@@ -1,3 +1,5 @@
+// Checking whether the character is vowel or consonant or non-alphabet
+
 #include<stdio.h>
 int main()
 {
