@@ -1,3 +1,5 @@
+// Printing days using switch case
+
 #include<stdio.h>
 int main()
 {
