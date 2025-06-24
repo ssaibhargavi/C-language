@@ -1,4 +1,4 @@
-/* Program that prints a hollow square pattern with diagonals using asterisks (*) and spaces that intersect.
+/* Program that prints a hollow square pattern with diagonals using asterisks (*) and spaces.
 The program takes the size of the square as input from the user and displays the pattern accordingly. */
 
 
